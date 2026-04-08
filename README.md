@@ -1,2 +1,2 @@
 # Sistemas-Embebidos
-Repo Para el parcial de sistemas embebidos 2026
+Repo Para los labs y actividades de la materia Sistemas Embebidos de la universidad EIA
